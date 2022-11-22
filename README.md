@@ -22,3 +22,10 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
+## Tools Used
+1. MS- Excel
+2. SQL Server
+3. Tableau
+
+## Check For sql analysis here ([SQL Analysis Queries](https://pages.github.com/))
+## Check for Tableau Dashboard ([Data Visualization](https://public.tableau.com/app/profile/pooja.bharathi3039/viz/GoogleCyclisticCaseStudy/Dashboard2))
