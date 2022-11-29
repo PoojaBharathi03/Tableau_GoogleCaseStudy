@@ -27,5 +27,5 @@ visualizations.
 2. SQL Server
 3. Tableau
 
-## Check For sql analysis here ([SQL Analysis Queries](https://pages.github.com/))
+## Check For sql analysis here ([SQL Analysis Queries](https://github.com/PoojaBharathi03/Tableau_GoogleCaseStudy/blob/main/SQL%20Queries))
 ## Check for Tableau Dashboard ([Data Visualization](https://public.tableau.com/app/profile/pooja.bharathi3039/viz/GoogleCyclisticCaseStudy/Dashboard2))
